@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "f11d731a-77f6-4617-aab4-1ca528c7c2c9",
+      "name": "vishnu1111111",
+      "email": "vishnu@gmail.com"
+    },
+    {
+      "id": "e1b3f44c-feb5-4289-a813-d012920edfb4",
+      "name": "vishnu1111111",
+      "email": "vishnu@gmail.com"
+    },
+    {
+      "id": "0cfb0d62-71f0-4219-b721-79b984d9421f",
+      "name": "vishnu1111111",
+      "email": "vishnu@gmail.com"
+    },
+    {
+      "id": "1ac44236-50f3-41b5-9991-304d261b02c2",
+      "name": "abbala",
+      "email": "abin.jose@lntecc.com"
+    },
+    {
+      "id": "28900245-0573-4b9e-b6bf-d38049ebb39b",
+      "name": "aman verma",
+      "email": "vishnu@gmail.com"
+    }
+  ]
+}
